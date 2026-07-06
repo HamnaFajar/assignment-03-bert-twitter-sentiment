@@ -75,3 +75,12 @@ training/validation loss curve, training/validation accuracy curve, class distri
 - Do not use a pre-built sentiment pipeline — this project fine-tunes BERT on the
   chosen dataset from scratch, as required.
 - GUI never hardcodes predictions — every prediction is a live call to the loaded model.
+
+
+
+## Trained Model
+The fine-tuned BERT model (saved_bert_model/) is too large for GitHub.
+Download it here: [Google Drive Link](https://drive.google.com/file/d/1QNVK1vOt1MIBHqZnZATbnG9dVF0z2bHW/view?usp=drive_link)
+## Trained Model
+The fine-tuned BERT model (saved_bert_model/) is too large for GitHub.
+Download it here: [Google Drive Link](YAHAN_APNA_LINK_PASTE_KARO)
